@@ -15,7 +15,7 @@ let package = Package(
 	targets: [
 		.binaryTarget(
 			name: "AdBrixRmKit",
-			url: "https://github.com/yim2627/AdBrixRmKit_SPM/releases/download/v2.4.0.1/AdBrixRmKit.xcframework.zip",
-			checksum: "4270d953f16360467667fd87d665dc16f56c51e5b02b4117e9b297a59095e405")
+			url: "https://github.com/yim2627/AdBrixRmKit_SPM/releases/download/v2.4.0.6/AdBrixRmKit.xcframework.zip",
+			checksum: "de196dfe07de10c0fbab672f1e3cf4a6cbb66ee3f9a4bcbc0fe2b0b911fce391")
 	]
 )
